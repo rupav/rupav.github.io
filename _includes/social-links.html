@@ -1,4 +1,10 @@
 <div class="social-links">
+    {% if site.codeforces %}
+        <a class="link" data-title="codeforces.com/profile/{{ site.codeforces }}" href="http://codeforces.com/profile/{{ site.facebook }}" target="_blank">
+            <svg class="icon icon-code"><use xlink:href="#icon-code"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.facebook %}
         <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
             <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
