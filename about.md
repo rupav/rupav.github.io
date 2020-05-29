@@ -4,10 +4,13 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I am Rupav Jain. I will be graduating from NSIT, DU in 2020. I have 
-been involved quite a lot in both open source development and competitive 
-coding. I will be joining Goibibo as a SDE-1 in July 2020. Looking forward
-for the new chapter. Happy Coding :)</p>
+<p>Hi, I am Rupav Jain. I will be graduating with a B.E degree 
+from NSIT, DU in 2020. I will be joining Goibibo as a SDE-1 in July 2020. 
+Looking forward for the new chapter. Happy Coding :)</p>
+
+<p>I have been involved quite a lot in both open source development and 
+competitive coding. Learning hacks in Vim editor and watching football
+are my hobbies.</p>
 
 <h2>Skills</h2>
 
