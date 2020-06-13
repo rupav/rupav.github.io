@@ -1,7 +1,7 @@
 # main text of home
 name: Rupav Jain   
-bio: Balancing life between development and competitive coding!
-
+bio: Football. Competitive Programming. Development. In that order.
+    
 # twitter summary info
 description: A blog about technology and stuff related
 
@@ -56,7 +56,7 @@ email: rupavwinchester@gmail.com
 authors:
     rupav:
         name: Rupav Jain
-        bio: Balancing between development and competitive coding!
+        bio: Football. Competitive Programming. Development. In that order.
         external-image: false
         picture: assets/images/home.jpg
         twitter: RupavJain
